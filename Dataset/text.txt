@@ -1,0 +1,236 @@
+
+
+
+001
+u1
+Having Beers in a Bar
+Find the moment in 2015 and 2016 when u1 enjoyed
+beers in the bar.
+To be considered relevant, u1 must be clearly in a
+bar. Any moments that u1 drinks beers at home or outside without
+the bar view are not considered relevant.
+
+
+002
+u1
+Building Personal Computer
+Find the moment when u1 built my personal
+computer from scratch.
+To be considered relevant, u1 must be clearly at
+the office with the PC parts on the table. Any moments that the u1
+is not in the office or there are no PC parts/uncompleted PCs on
+the table are not considered relevant.
+
+
+003
+u1
+In A Toy Shop
+Find the moment when u1 was looking at items in
+a toyshop.
+To be considered relevant, u1 must be clearly in a
+toyshop. Various toys are being examined, such as electronic
+trains, model kits and board games. Being in an electronics store,
+or a supermarket, are not considered to be relevant.
+
+
+004
+u1
+Television Recording
+Find the moments when u1 was being recorded for
+a television show.
+To be considered relevant, there must clearly be a
+television camera in front of u1. The moments the
+interviewer/cameramen is interviewing/recording u1 are also
+considered relevant. This can take place at home or in another
+location. All recording took place in one day and in more than one
+location.
+
+
+005
+u1
+Public Transport In Home Country
+Find the moments in 2015 and 2018 when u1 was
+using public transports in my home country
+(Ireland).
+Taking any form of public transport in Ireland is
+considered relevant, such as bus, taxi, train and boat. The
+moments that u1 is driving a car is not relevant
+
+
+006
+u1
+Seaside Moments
+Find moment(s) in which u1 was walking by the
+sea taking photos or eating ice cream.
+To be considered relevant, u1 must be taking a
+walk by the sea or eating ice cream and the sea is clearly
+visible. u1 must also be shown taking a photo with his/her camera
+phone or holding the ice cream cone at this time. On the beach or
+walking on a pier are both considered relevant once u1 is taking a
+photo or eating ice cream.
+
+
+007
+u1
+Grocery Stores
+Find moment(s) in 2016 and 2018 when u1 was
+grocery shopping on the weekends.
+To be considered relevant, u1 must be clearly in a
+grocery shop and buy something from it. Any moments on Saturdays
+and Sundays when u1 was in a grocery store and visibly interacting
+with products are also considered relevant.
+
+
+008
+u1
+Photograph of The Bridge
+Find the moment when u1 was taking a photo of a
+bridge.
+Moments when u1 was walking on a street without
+stopping to take a photo of a bridge are not relevant. Any other
+moment showing a bridge when a photo was not being taken are also
+not considered to be relevant.
+
+
+009
+u1
+Car Repair
+Find the moment when u1 was repairing his car in
+the garden.
+Moments when u1 was repairing his car in the
+garden with the gloves on his hand. Sometimes, he also held the
+hammer and his phone and these moments are also considered
+relevant. The moments when u1 was with the cars without showing
+repair action are not considered relevant.
+
+
+010
+u1
+Monsters
+Find the moment(s) when u1 was looking at an old
+clock, with flowers visible, with a small monster watching
+u1.
+Moments when u1 was at home, looking at an old
+clock, with flowers visible, with a lamp and perhaps two small
+monsters watching u1 are considered relevant. One of the monsters
+might be a long rabbit. The moments without one of the
+aforementioned conditions: monsters, flowers, and old clock are
+not considered relevant.
+
+
+
+001
+u1
+Having Beers in a Bar
+Find the moment in 2015 and 2016 when u1 enjoyed
+beers in the bar.
+To be considered relevant, u1 must be clearly in a
+bar. Any moments that u1 drinks beers at home or outside without
+the bar view are not considered relevant.
+
+
+002
+u1
+Building Personal Computer
+Find the moment when u1 built my personal
+computer from scratch.
+To be considered relevant, u1 must be clearly at
+the office with the PC parts on the table. Any moments that the u1
+is not in the office or there are no PC parts/uncompleted PCs on
+the table are not considered relevant.
+
+
+003
+u1
+In A Toy Shop
+Find the moment when u1 was looking at items in
+a toyshop.
+To be considered relevant, u1 must be clearly in a
+toyshop. Various toys are being examined, such as electronic
+trains, model kits and board games. Being in an electronics store,
+or a supermarket, are not considered to be relevant.
+
+
+004
+u1
+Television Recording
+Find the moments when u1 was being recorded for
+a television show.
+To be considered relevant, there must clearly be a
+television camera in front of u1. The moments the
+interviewer/cameramen is interviewing/recording u1 are also
+considered relevant. This can take place at home or in another
+location. All recording took place in one day and in more than one
+location.
+
+
+005
+u1
+Public Transport In Home Country
+Find the moments in 2015 and 2018 when u1 was
+using public transports in my home country
+(Ireland).
+Taking any form of public transport in Ireland is
+considered relevant, such as bus, taxi, train and boat. The
+moments that u1 is driving a car is not relevant
+
+
+006
+u1
+Seaside Moments
+Find moment(s) in which u1 was walking by the
+sea taking photos or eating ice cream.
+To be considered relevant, u1 must be taking a
+walk by the sea or eating ice cream and the sea is clearly
+visible. u1 must also be shown taking a photo with his/her camera
+phone or holding the ice cream cone at this time. On the beach or
+walking on a pier are both considered relevant once u1 is taking a
+photo or eating ice cream.
+
+
+007
+u1
+Grocery Stores
+Find moment(s) in 2016 and 2018 when u1 was
+grocery shopping on the weekends.
+To be considered relevant, u1 must be clearly in a
+grocery shop and buy something from it. Any moments on Saturdays
+and Sundays when u1 was in a grocery store and visibly interacting
+with products are also considered relevant.
+
+
+008
+u1
+Photograph of The Bridge
+Find the moment when u1 was taking a photo of a
+bridge.
+Moments when u1 was walking on a street without
+stopping to take a photo of a bridge are not relevant. Any other
+moment showing a bridge when a photo was not being taken are also
+not considered to be relevant.
+
+
+009
+u1
+Car Repair
+Find the moment when u1 was repairing his car in
+the garden.
+Moments when u1 was repairing his car in the
+garden with the gloves on his hand. Sometimes, he also held the
+hammer and his phone and these moments are also considered
+relevant. The moments when u1 was with the cars without showing
+repair action are not considered relevant.
+
+
+010
+u1
+Monsters
+Find the moment(s) when u1 was looking at an old
+clock, with flowers visible, with a small monster watching
+u1.
+Moments when u1 was at home, looking at an old
+clock, with flowers visible, with a lamp and perhaps two small
+monsters watching u1 are considered relevant. One of the monsters
+might be a long rabbit. The moments without one of the
+aforementioned conditions: monsters, flowers, and old clock are
+not considered relevant.
