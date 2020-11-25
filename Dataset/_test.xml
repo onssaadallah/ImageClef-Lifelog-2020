@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+<topic>
+<id>001</id>
+<type>precision</type>
+<uid>u1</uid>
+<title>Praying Rite</title>
+<description>Find the moment when u1 was attending a
+praying rite with other people in the church.</description>
+<narrative>To be relevant, the moment must show u1 is
+currently inside the church, attending a praying rite with other
+people. The moments that u1 is outside with the church visible or
+inside the church but is not attending the praying rite are not
+considered relevant.</narrative>
+</topic>
+<topic>
+<id>002</id>
+<type>recall</type>
+<uid>u1</uid>
+<title>Lifelog data on touchscreen on the wall</title>
+<description>Find the moment when u1 was looking at
+lifelog data on a large touchscreen on the wall.</description>
+<narrative>To be relevant, the moment must show u1 is
+looking at his lifelog data on the touchscreen wall. The touchscreen
+wall showed a range of colorful images at that time. At some moments,
+u1 was talking to other people while looking at the lifelog data on
+the touchscreen wall. The moments that u1 is looking at the
+touchscreen on the wall but it did not show colorful lifelog images
+are not considered relevant. The moments that u1 is looking at his
+colorful lifelog data on a desktop monitor are also not considered
+relevant.</narrative>
+</topic>
+<topic>
+<id>003</id>
+<type>precision</type>
+<uid>u1</uid>
+<title>Bus to work - Bus to home</title>
+<description>Find the moment when u1 was getting a bus to
+his office at Dublin City University or was going home by
+bus.</description>
+<narrative>To be relevant, u1 was on the bus and the
+destination is his home or his workplace. The moments that u1 was
+waiting at the bus stop or u1 was travelling on any other public
+transportations or the destination is not his home/workplace are not
+considered relevant.</narrative>
+</topic>
+<topic>
+<id>004</id>
+<type>recall</type>
+<uid>u1</uid>
+<title>Bus at the airport</title>
+<description>Find the moment when u1 was getting on a bus
+in the aircraft landing deck in the airport.</description>
+<narrative>To be relevant, u1 was walking to the bus in
+the aircraft landing deck in the airport after. Some possible moments
+include u1 walking out from the airplane and u1 walking to the bus
+parking in the aircraft landing deck. There would be many airplanes
+visible. Other moments that u1 was on the bus without airplanes
+visible outside/u1 was at the airport but the bus is not visible/the
+bus is not in the aircraft landing deck are not considered
+relevant.</narrative>
+</topic>
+<topic>
+<id>005</id>
+<type>recall</type>
+<uid>u1</uid>
+<title>Medicine cabinet</title>
+<description>Find the moment when u1 was looking inside
+the medicine cabinet in the bathroom at home.</description>
+<narrative>To be considered relevant, u1 must be at home,
+looking inside the opening medicine cabinet beside a mirror in the
+bathroom. The moments that u1 was looking inside the medicine cabinet
+in other places (not at home and not in the bathroom) or u1 was
+looking at the closed medicine cabinet are not considered to be
+relevant.</narrative>
+</topic>
+<topic>
+<id>006</id>
+<type>recall</type>
+<uid>u1</uid>
+<title>Order Food in the Airport</title>
+<description>Find the moment when u1 was ordering fast
+food in the airport</description>
+<narrative>To be relevant, u1 must be at the airport and
+ordering food. The moments that u1 was queuing to order food are also
+considered relevant. The moments that u1 was eating fast food or
+waiting for collection of food at the airport are not considered to
+be relevant</narrative>
+</topic>
+<topic>
+<id>007</id>
+<type>recall</type>
+<uid>u1</uid>
+<title>Seafood at Restaurant</title>
+<description>Find moments when u1 was eating seafood in a
+restaurant in the evening time</description>
+<narrative>The moments show u1 was eating seafood in any
+restaurant in the evening time are considered relevant. Any dish has
+seafood as one of its parts is also considered relevant. Some
+examples of the seafood can be shrimp, lobster, salmon.</narrative>
+</topic>
+<topic>
+<id>008</id>
+<type>precision</type>
+<uid>u1</uid>
+<title>Meeting with people</title>
+<description>Find the moments when u1 was a roundtable
+meeting with many people and there was pink (not red) name-cards for
+each person</description>
+<narrative>The moments show u1 was at a roundtable and
+having a meeting with many people, and with pink name-cards visible
+are considered relevant. The moments that people are not having a
+meeting are not relevant</narrative>
+</topic>
+<topic>
+<id>009</id>
+<type>recall</type>
+<uid>u1</uid>
+<title>Eating Pizza</title>
+<description>Find the moments when u1 was eating a pizza
+while talking to one man</description>
+<narrative>To be considered relevant, the u1 must eat or
+hold a pizza with a man visible in the background. The moments that
+u1 was talking to more than one person are not relevant</narrative>
+</topic>
+<topic>
+<id>010</id>
+<type>precision</type>
+<uid>u1</uid>
+<title>Socialising</title>
+<description>Find the moments when u1 was talking to a
+lady in a red top, standing directly in front of a poster hanging on
+a wall
+</description>
+<narrative>To be relevant, the u1 must be talking with a
+woman in red, who was standing right in front of a scientific
+research poster</narrative>
+</topic>
